@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "title": "House of Digital Business",
+    "description": "Rafforzare l'identità del marchio e la crescita"
+  },
+  "header": {
+    "home": "Home",
+    "services": "Servizi",
+    "about": "Chi Siamo",
+    "contact": "Contatto",
+    "language": "Lingua"
+  },
+  "hero": {
+    "title": "Rafforzare l'identità del marchio e la crescita",
+    "subtitle": "Soluzioni digitali che trasformano la tua azienda",
+    "cta": "Contattaci",
+    "services": {
+      "artDirection": "Art Direction",
+      "graphicDesign": "Design Grafico",
+      "videography": "Videografia",
+      "aiSolutions": "Soluzioni IA"
+    }
+  },
+  "services": {
+    "title": "I Nostri Servizi",
+    "pageTitle": "Servizi",
+    "pageDescription": "Offriamo una gamma completa di servizi digitali per aiutare la tua azienda a prosperare nel panorama moderno. Ogni servizio è personalizzato per elevare il tuo marchio e creare connessioni significative con il tuo pubblico.",
+    "subtitle": "Soluzioni digitali professionali per la tua azienda",
+    "learnMore": "Scopri di più",
+    "contactCta": "Contattaci ora",
+    "artDirection": {
+      "title": "Art Direction",
+      "description": "Sviluppo strategico dell'identità visiva per il tuo marchio"
+    },
+    "graphicDesign": {
+      "title": "Design Grafico",
+      "description": "Soluzioni visive professionali per tutte le esigenze del tuo marchio"
+    },
+    "videography": {
+      "title": "Videografia",
+      "description": "Contenuti video di alta qualità per presentare i tuoi prodotti e servizi"
+    },
+    "aiSolutions": {
+      "title": "Soluzioni IA",
+      "description": "Strumenti di intelligenza artificiale all'avanguardia per ottimizzare la tua azienda"
+    },
+    "branding": {
+      "title": "Branding",
+      "description": "Sviluppo di un'identità di marca forte e memorabile per differenziare la tua azienda"
+    },
+    "digitalMarketing": {
+      "title": "Marketing Digitale",
+      "description": "Strategie di marketing efficaci per ampliare la tua portata e generare risultati"
+    }
+  },
+  "testimonial": {
+    "title": "Cosa Dicono i Nostri Clienti",
+    "subtitle": "Storie di successo dalle aziende che abbiamo aiutato a trasformare",
+    "client1": {
+      "text": "House of Digital Business ha completamente trasformato l'identità del nostro marchio. Il loro approccio creativo e l'attenzione ai dettagli hanno portato a un linguaggio visivo coerente che risuona con il nostro pubblico.",
+      "name": "Sarah Johnson",
+      "position": "Direttrice Marketing, TechVision"
+    },
+    "client2": {
+      "text": "I contenuti video creati dal loro team ci hanno aiutato ad aumentare il coinvolgimento del 200%. Il loro approccio strategico allo storytelling ha fatto la differenza nel modo in cui i nostri prodotti vengono percepiti.",
+      "name": "Michael Chen",
+      "position": "CEO, Innovate Solutions"
+    },
+    "client3": {
+      "text": "Le loro soluzioni di integrazione IA hanno ottimizzato le nostre operazioni di assistenza clienti e ridotto i tempi di risposta del 70%. Un vero punto di svolta per l'efficienza della nostra azienda.",
+      "name": "Emma Rodriguez",
+      "position": "Responsabile Operazioni, GlobalConnect"
+    }
+  },
+  "about": {
+    "title": "Chi Siamo",
+    "pageTitle": "Chi Siamo",
+    "pageDescription": "Scopri la nostra azienda, la nostra missione e i valori che ci spingono a creare esperienze digitali eccezionali per i nostri clienti.",
+    "subtitle": "La nostra missione è aiutare i marchi a crescere attraverso l'eccellenza digitale",
+    "description": "House of Digital Business è specializzata nella creazione di soluzioni digitali d'impatto che rafforzano l'identità del marchio e guidano la crescita aziendale. Il nostro team di esperti combina creatività e competenza tecnica per offrire risultati eccezionali."
+  },
+  "contact": {
+    "title": "Contattaci",
+    "pageTitle": "Contattaci",
+    "pageDescription": "Hai un progetto in mente o vuoi saperne di più sui nostri servizi? Contattaci—saremo lieti di sentirti e discutere di come possiamo aiutarti a realizzare la tua visione.",
+    "subtitle": "Iniziamo a lavorare insieme",
+    "name": "Nome",
+    "email": "Email",
+    "message": "Messaggio",
+    "send": "Invia Messaggio",
+    "success": "Messaggio inviato con successo!",
+    "error": "Si è verificato un errore. Per favore riprova.",
+    "form": {
+      "title": "Inviaci un messaggio",
+      "name": "Nome",
+      "namePlaceholder": "Inserisci il tuo nome",
+      "email": "Email",
+      "emailPlaceholder": "Inserisci la tua email",
+      "message": "Messaggio",
+      "messagePlaceholder": "Raccontaci del tuo progetto o richiesta",
+      "submit": "Invia Messaggio",
+      "sending": "Invio in corso...",
+      "successMessage": "Grazie! Il tuo messaggio è stato inviato con successo. Ti risponderemo presto.",
+      "errorMessage": "Si è verificato un errore. Riprova o contattaci direttamente via email."
+    }
+  },
+  "footer": {
+    "copyright": "© 2023 House of Digital Business. Tutti i diritti riservati.",
+    "navigation": "Navigazione",
+    "social": "Social",
+    "privacy": "Informativa sulla Privacy",
+    "terms": "Termini di Utilizzo",
+    "legal": {
+      "privacy": "Informativa sulla Privacy",
+      "terms": "Termini di Utilizzo",
+      "imprint": "Impressum"
+    }
+  },
+  "theme": {
+    "light": "Modalità Chiara",
+    "dark": "Modalità Scura"
+  }
+} 

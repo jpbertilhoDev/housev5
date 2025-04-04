@@ -1,0 +1,46 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": false,
+    "forceConsistentCasingInFileNames": true,
+    "noFallthroughCasesInSwitch": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": false,
+    "noEmit": true,
+    "jsx": "react-jsx",
+    "noImplicitAny": false,
+    "typeRoots": [
+      "./node_modules/@types",
+      "./src/types"
+    ],
+    "allowUmdGlobalAccess": true,
+    "noUnusedLocals": false,
+    "noUnusedParameters": false,
+    "exactOptionalPropertyTypes": false,
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["src/*"],
+      "styled-components": ["./node_modules/styled-components", "./src/types/styled-components-fix.d.ts"],
+      "framer-motion": ["./node_modules/framer-motion", "./src/types/styled-components-with-motion.d.ts"]
+    },
+    "skipDefaultLibCheck": true,
+    "checkJs": false
+  },
+  "include": [
+    "src",
+    "src/custom.d.ts",
+    "src/vite-env.d.ts",
+    "src/types"
+  ]
+} 

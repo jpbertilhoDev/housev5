@@ -1,0 +1,200 @@
+{
+  "header": {
+    "home": "Startseite",
+    "services": "Dienstleistungen",
+    "about": "Über uns",
+    "contact": "Kontakt",
+    "language": "Sprache"
+  },
+  "hero": {
+    "title": "Stärkung der Markenidentität und des Wachstums",
+    "subtitle": "Wir helfen Marken, durch innovative digitale Lösungen zu wachsen",
+    "cta": "Mehr erfahren",
+    "services": {
+      "artDirection": "Art Direction",
+      "graphicDesign": "Grafikdesign",
+      "videography": "Videografie",
+      "aiSolutions": "KI-Lösungen"
+    }
+  },
+  "services": {
+    "title": "Unsere Dienstleistungen",
+    "pageTitle": "Dienstleistungen",
+    "pageDescription": "Wir bieten eine umfassende Palette digitaler Dienstleistungen an, die Ihrem Unternehmen helfen, in der modernen Landschaft zu gedeihen. Jede Dienstleistung ist darauf zugeschnitten, Ihre Marke zu stärken und bedeutsame Verbindungen zu Ihrem Publikum herzustellen.",
+    "subtitle": "Außergewöhnliche Lösungen für Ihre digitale Präsenz",
+    "learnMore": "Mehr erfahren",
+    "contactCta": "Jetzt kontaktieren",
+    "artDirection": {
+      "title": "Art Direction",
+      "description": "Entwicklung visueller Konzepte, die Ideen vermitteln, die Verbraucher inspirieren, informieren und fesseln.",
+      "fullDescription": "Unsere Art-Direction-Dienstleistungen konzentrieren sich auf die Erstellung kohärenter visueller Narrative, die die Identität Ihrer Marke verbessern. Wir verbinden strategisches Denken mit kreativer Umsetzung, um visuelle Konzepte zu entwickeln, die bei Ihrer Zielgruppe Anklang finden und die Positionierung Ihrer Marke im Markt stärken.",
+      "feature1": "Konzeptionelle Entwicklung und Storytelling",
+      "feature2": "Visuelle Identitätssysteme und Richtlinien",
+      "feature3": "Plattformübergreifende visuelle Strategie",
+      "feature4": "Führung und Koordination des Kreativteams"
+    },
+    "graphicDesign": {
+      "title": "Grafikdesign",
+      "description": "Gestaltung visuell beeindruckender Designs, die Ihre Botschaft effektiv kommunizieren.",
+      "fullDescription": "Unsere Grafikdesign-Dienstleistungen verwandeln Ideen in überzeugende visuelle Assets, die Aufmerksamkeit erregen und Ihre Botschaft mit Klarheit und Wirkung vermitteln. Ob für Print- oder digitale Medien, wir erstellen Designs, die die visuelle Präsenz Ihrer Marke verbessern und Ihr Publikum ansprechen.",
+      "feature1": "Markenidentität und Logo-Design",
+      "feature2": "Druckmaterialien und Marketingunterlagen",
+      "feature3": "Digitale Assets und Social-Media-Grafiken",
+      "feature4": "Verpackungsdesign und Produktvisualisierung"
+    },
+    "videography": {
+      "title": "Videografie",
+      "description": "Produktion von ansprechenden Videoinhalten, die Ihre Geschichte erzählen und mit den Zuschauern in Verbindung treten.",
+      "fullDescription": "Unsere Videografie-Dienstleistungen liefern fesselnde visuelle Geschichten, die Ihr Publikum auf allen Plattformen ansprechen. Vom Konzept bis zum finalen Schnitt erstellen wir hochwertige Videoinhalte, die Ihre Botschaft vermitteln, Ihre Produkte oder Dienstleistungen präsentieren und emotionale Verbindungen zu den Zuschauern aufbauen.",
+      "feature1": "Unternehmens- und Markenvideos",
+      "feature2": "Produktpräsentationen und Demonstrationen",
+      "feature3": "Social Media und Web-Inhalte",
+      "feature4": "Eventberichterstattung und dokumentarisches Storytelling"
+    },
+    "aiSolutions": {
+      "title": "KI-Lösungen",
+      "description": "Nutzung künstlicher Intelligenz zur Verbesserung Ihrer Geschäftsfähigkeiten und Effizienz.",
+      "fullDescription": "Unsere KI-Lösungen integrieren modernste Technologie mit praktischen Geschäftsanwendungen, um Effizienz, Innovation und Wachstum zu fördern. Wir entwickeln maßgeschneiderte KI-gestützte Tools und Systeme, die die Entscheidungsfindung verbessern, Prozesse automatisieren und personalisierte Erlebnisse für Ihre Kunden schaffen.",
+      "feature1": "Prädiktive Analytik und Business Intelligence",
+      "feature2": "Anwendungen für natürliche Sprachverarbeitung",
+      "feature3": "Computervision und Bilderkennung",
+      "feature4": "KI-gestützte Marketing- und Kundenengagement-Tools"
+    },
+    "branding": {
+      "title": "Branding",
+      "description": "Entwicklung einer starken und einprägsamen Markenidentität, um Ihr Unternehmen zu differenzieren.",
+      "fullDescription": "Unsere Branding-Dienstleistungen helfen Ihnen, eine unverwechselbare und ansprechende Markenidentität zu schaffen, die bei Ihrer Zielgruppe Anklang findet. Wir entwickeln umfassende Markenstrategien, die eine emotionale Verbindung zu Ihren Kunden herstellen und Ihr Unternehmen vom Wettbewerb abheben.",
+      "feature1": "Markenpositionierungsstrategie",
+      "feature2": "Entwicklung der visuellen Identität",
+      "feature3": "Markenrichtlinien und Botschaften",
+      "feature4": "Markenstimme und Tonalitätsstrategie"
+    },
+    "digitalMarketing": {
+      "title": "Digitales Marketing",
+      "description": "Effektive Marketingstrategien zur Erweiterung Ihrer Reichweite und Erzielung von Ergebnissen.",
+      "fullDescription": "Unsere digitalen Marketinglösungen sind darauf ausgelegt, die Online-Sichtbarkeit Ihrer Marke zu erhöhen, qualifizierte Besucher anzuziehen und Leads in Kunden umzuwandeln. Wir verfolgen einen datenbasierten Ansatz, um maßgeschneiderte Kampagnen zu erstellen, die Ihre Geschäftsziele unterstützen.",
+      "feature1": "SEO und Content-Marketing",
+      "feature2": "Social-Media-Management",
+      "feature3": "E-Mail-Marketing und Automatisierung",
+      "feature4": "Bezahlte Werbung und Retargeting"
+    }
+  },
+  "testimonial": {
+    "title": "Was unsere Kunden sagen",
+    "subtitle": "Erfolgsgeschichten von Unternehmen, denen wir bei der Transformation geholfen haben",
+    "client1": {
+      "text": "House of Digital Business hat unsere Markenidentität komplett transformiert. Ihr kreativer Ansatz und ihre Liebe zum Detail haben zu einer kohärenten visuellen Sprache geführt, die bei unserem Publikum Anklang findet.",
+      "name": "Sarah Johnson",
+      "position": "Marketing Direktorin, TechVision"
+    },
+    "client2": {
+      "text": "Die von ihrem Team erstellten Videoinhalte haben uns geholfen, das Engagement um 200% zu steigern. Ihr strategischer Ansatz zum Storytelling hat den entscheidenden Unterschied gemacht, wie unsere Produkte wahrgenommen werden.",
+      "name": "Michael Chen",
+      "position": "CEO, Innovate Solutions"
+    },
+    "client3": {
+      "text": "Ihre KI-Integrationslösungen haben unsere Kundendienstabläufe optimiert und die Reaktionszeiten um 70% reduziert. Ein echter Game-Changer für unsere Geschäftseffizienz.",
+      "name": "Emma Rodriguez",
+      "position": "Operations Manager, GlobalConnect"
+    }
+  },
+  "about": {
+    "title": "Über uns",
+    "pageTitle": "Über uns",
+    "pageDescription": "Erfahren Sie mehr über unser Unternehmen, unsere Mission und die Werte, die uns antreiben, außergewöhnliche digitale Erlebnisse für unsere Kunden zu schaffen.",
+    "story": {
+      "title": "Unsere Geschichte",
+      "paragraph1": "House of Digital Business wurde 2018 mit der Vision gegründet, die Lücke zwischen kreativem Design und technologischer Innovation zu schließen. Was als kleines Team leidenschaftlicher Designer und Entwickler begann, hat sich zu einer Full-Service-Digitalagentur mit einer globalen Kundenbasis entwickelt.",
+      "paragraph2": "Im Laufe der Jahre haben wir Unternehmen aller Größen dabei geholfen, ihre digitale Präsenz zu transformieren und bedeutungsvollere Verbindungen zu ihrem Publikum herzustellen. Unsere Reise war geprägt von ständigem Lernen, Anpassung und dem unermüdlichen Streben nach Exzellenz in allem, was wir schaffen.",
+      "highlight": "Heute setzen wir weiterhin neue Maßstäbe und erkunden neue Möglichkeiten an der Schnittstelle von Design, Technologie und Geschäftsstrategie."
+    },
+    "mission": {
+      "title": "Unsere Mission & Vision",
+      "paragraph1": "Unsere Mission ist es, Unternehmen zu befähigen, in der digitalen Landschaft zu gedeihen, indem wir authentische, intelligente und wirkungsvolle Markenerlebnisse schaffen. Wir glauben, dass durchdachtes Design und strategische Umsetzung die Art und Weise, wie Unternehmen mit ihrem Publikum in Verbindung treten und ihre Ziele erreichen, transformieren können.",
+      "paragraph2": "Wir betrachten jedes Projekt als einzigartige Gelegenheit, etwas Bedeutungsvolles zu schaffen, das echte Ergebnisse liefert. Durch die Kombination von Kreativität mit strategischem Denken entwickeln wir Lösungen, die nicht nur außergewöhnlich aussehen, sondern auch hervorragend funktionieren.",
+      "vision": "Unsere Vision ist es, eine führende Kraft bei der Gestaltung der Zukunft digitaler Markenerlebnisse zu werden, bekannt für unseren innovativen Ansatz und messbaren Einfluss auf den Erfolg unserer Kunden."
+    },
+    "values": {
+      "title": "Unsere Werte",
+      "innovation": {
+        "title": "Innovation",
+        "description": "Wir erkunden kontinuierlich neue Ideen, Technologien und Ansätze, um zukunftsweisende Lösungen zu schaffen, die unseren Kunden einen Wettbewerbsvorteil verschaffen."
+      },
+      "excellence": {
+        "title": "Exzellenz",
+        "description": "Wir halten uns in allem, was wir tun, an die höchsten Standards - von der Qualität unserer Designs über die Wirksamkeit unserer Strategien bis hin zur Zuverlässigkeit unseres Service."
+      },
+      "creativity": {
+        "title": "Kreativität",
+        "description": "Wir glauben an die Kraft des kreativen Denkens, um komplexe Probleme zu lösen und unvergessliche Erlebnisse zu schaffen, die beim Publikum Anklang finden."
+      },
+      "integrity": {
+        "title": "Integrität",
+        "description": "Wir bauen Beziehungen auf Vertrauen, Transparenz und ehrlicher Kommunikation auf und handeln stets im besten Interesse unserer Kunden und ihres Publikums."
+      }
+    },
+    "team": {
+      "title": "Unser Team",
+      "member1": {
+        "name": "Alexander Weber",
+        "role": "Kreativdirektor",
+        "bio": "Mit über 15 Jahren Erfahrung in Design und Markenstrategie leitet Alexander unser Kreativteam mit Vision und Fachwissen."
+      },
+      "member2": {
+        "name": "Julia Schmidt",
+        "role": "Technische Direktorin",
+        "bio": "Julia verbindet technisches Wissen mit kreativer Problemlösung, um die Entwicklung und Implementierung unserer digitalen Lösungen zu überwachen."
+      },
+      "member3": {
+        "name": "Markus Müller",
+        "role": "Strategiedirektor",
+        "bio": "Markus bringt strategische Einsicht und Geschäftssinn ein, um sicherzustellen, dass unsere kreative Arbeit messbare Ergebnisse für unsere Kunden erzielt."
+      }
+    }
+  },
+  "contact": {
+    "title": "Kontakt",
+    "pageDescription": "Haben Sie ein Projekt im Sinn oder möchten Sie mehr über unsere Dienstleistungen erfahren? Nehmen Sie Kontakt mit uns auf – wir würden uns freuen, von Ihnen zu hören und zu besprechen, wie wir Ihre Vision zum Leben erwecken können.",
+    "form": {
+      "title": "Senden Sie uns eine Nachricht",
+      "name": "Name",
+      "namePlaceholder": "Geben Sie Ihren Namen ein",
+      "email": "E-Mail",
+      "emailPlaceholder": "Geben Sie Ihre E-Mail-Adresse ein",
+      "message": "Nachricht",
+      "messagePlaceholder": "Erzählen Sie uns von Ihrem Projekt oder Ihrer Anfrage",
+      "submit": "Nachricht senden",
+      "sending": "Wird gesendet...",
+      "success": "Vielen Dank! Ihre Nachricht wurde erfolgreich gesendet. Wir werden uns in Kürze bei Ihnen melden.",
+      "error": "Etwas ist schiefgelaufen. Bitte versuchen Sie es erneut oder kontaktieren Sie uns direkt per E-Mail.",
+      "errors": {
+        "name": "Name ist erforderlich",
+        "email": "E-Mail ist erforderlich",
+        "emailInvalid": "Bitte geben Sie eine gültige E-Mail-Adresse ein",
+        "message": "Nachricht ist erforderlich",
+        "messageLength": "Die Nachricht sollte mindestens 10 Zeichen lang sein"
+      }
+    },
+    "info": {
+      "title": "Kontaktinformationen",
+      "email": "E-Mail",
+      "phone": "Telefon",
+      "address": "Adresse",
+      "addressDetail": "Friedrichstraße 76-78, 10117 Berlin, Deutschland"
+    }
+  },
+  "footer": {
+    "copyright": "© 2025 House of Digital Business. Alle Rechte vorbehalten.",
+    "navigation": "Navigation",
+    "social": "Social Media",
+    "legal": {
+      "privacy": "Datenschutzrichtlinie",
+      "terms": "Nutzungsbedingungen",
+      "imprint": "Impressum"
+    }
+  },
+  "theme": {
+    "light": "Heller Modus",
+    "dark": "Dunkler Modus"
+  }
+}

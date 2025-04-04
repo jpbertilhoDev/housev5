@@ -1,0 +1,5 @@
+src/**/*.tsx
+src/**/*.ts
+src/types/**/*.d.ts
+config-overrides.js
+webpack.config.js 

@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "title": "House of Digital Business",
+    "description": "Renforcer l'identité de marque et la croissance"
+  },
+  "header": {
+    "home": "Accueil",
+    "services": "Services",
+    "about": "À Propos",
+    "contact": "Contact",
+    "language": "Langue"
+  },
+  "hero": {
+    "title": "Renforcer l'identité de marque et la croissance",
+    "subtitle": "Solutions numériques qui transforment votre entreprise",
+    "cta": "Contactez-nous",
+    "services": {
+      "artDirection": "Direction Artistique",
+      "graphicDesign": "Design Graphique",
+      "videography": "Vidéographie",
+      "aiSolutions": "Solutions IA"
+    }
+  },
+  "services": {
+    "title": "Nos Services",
+    "pageTitle": "Services",
+    "pageDescription": "Nous offrons une gamme complète de services numériques pour aider votre entreprise à prospérer dans le paysage moderne. Chaque service est conçu pour élever votre marque et créer des connexions significatives avec votre public.",
+    "subtitle": "Solutions numériques professionnelles pour votre entreprise",
+    "learnMore": "En savoir plus",
+    "contactCta": "Contactez-nous maintenant",
+    "artDirection": {
+      "title": "Direction Artistique",
+      "description": "Développement stratégique d'identité visuelle pour votre marque"
+    },
+    "graphicDesign": {
+      "title": "Design Graphique",
+      "description": "Solutions visuelles professionnelles pour tous les besoins de votre marque"
+    },
+    "videography": {
+      "title": "Vidéographie",
+      "description": "Contenu vidéo de haute qualité pour présenter vos produits et services"
+    },
+    "aiSolutions": {
+      "title": "Solutions IA",
+      "description": "Outils d'intelligence artificielle de pointe pour optimiser votre entreprise"
+    },
+    "branding": {
+      "title": "Branding",
+      "description": "Développement d'une identité de marque forte et mémorable pour différencier votre entreprise"
+    },
+    "digitalMarketing": {
+      "title": "Marketing Digital",
+      "description": "Stratégies de marketing efficaces pour élargir votre portée et générer des résultats"
+    }
+  },
+  "testimonial": {
+    "title": "Ce Que Disent Nos Clients",
+    "subtitle": "Histoires de réussite d'entreprises que nous avons aidées à transformer",
+    "client1": {
+      "text": "House of Digital Business a complètement transformé l'identité de notre marque. Leur approche créative et leur attention aux détails ont abouti à un langage visuel cohérent qui résonne avec notre public.",
+      "name": "Sarah Johnson",
+      "position": "Directrice Marketing, TechVision"
+    },
+    "client2": {
+      "text": "Le contenu vidéo créé par leur équipe nous a aidés à augmenter l'engagement de 200%. L'approche stratégique de la narration a fait toute la différence dans la façon dont nos produits sont perçus.",
+      "name": "Michael Chen",
+      "position": "PDG, Innovate Solutions"
+    },
+    "client3": {
+      "text": "Leurs solutions d'intégration IA ont optimisé nos opérations de service client et réduit les temps de réponse de 70%. Une véritable révolution pour l'efficacité de notre entreprise.",
+      "name": "Emma Rodriguez",
+      "position": "Responsable des Opérations, GlobalConnect"
+    }
+  },
+  "about": {
+    "title": "À Propos de Nous",
+    "pageTitle": "À Propos",
+    "pageDescription": "Découvrez notre entreprise, notre mission et les valeurs qui nous poussent à créer des expériences numériques exceptionnelles pour nos clients.",
+    "subtitle": "Notre mission est d'aider les marques à se développer grâce à l'excellence numérique",
+    "description": "House of Digital Business est spécialisée dans la création de solutions numériques percutantes qui renforcent l'identité de marque et stimulent la croissance des entreprises. Notre équipe d'experts associe créativité et expertise technique pour offrir des résultats exceptionnels."
+  },
+  "contact": {
+    "title": "Contact",
+    "pageTitle": "Contactez-Nous",
+    "pageDescription": "Vous avez un projet en tête ou vous souhaitez en savoir plus sur nos services? Contactez-nous—nous serions ravis de vous entendre et de discuter de la façon dont nous pouvons vous aider à concrétiser votre vision.",
+    "subtitle": "Commençons à travailler ensemble",
+    "name": "Nom",
+    "email": "Email",
+    "message": "Message",
+    "send": "Envoyer le Message",
+    "success": "Message envoyé avec succès!",
+    "error": "Une erreur s'est produite. Veuillez réessayer.",
+    "form": {
+      "title": "Envoyez-nous un message",
+      "name": "Nom",
+      "namePlaceholder": "Entrez votre nom",
+      "email": "Email",
+      "emailPlaceholder": "Entrez votre adresse email",
+      "message": "Message",
+      "messagePlaceholder": "Parlez-nous de votre projet ou demande",
+      "submit": "Envoyer le Message",
+      "sending": "Envoi en cours...",
+      "successMessage": "Merci! Votre message a été envoyé avec succès. Nous vous répondrons bientôt.",
+      "errorMessage": "Une erreur s'est produite. Veuillez réessayer ou nous contacter directement par email."
+    }
+  },
+  "footer": {
+    "copyright": "© 2023 House of Digital Business. Tous droits réservés.",
+    "navigation": "Navigation",
+    "social": "Social",
+    "privacy": "Politique de Confidentialité",
+    "terms": "Conditions d'Utilisation",
+    "legal": {
+      "privacy": "Politique de Confidentialité",
+      "terms": "Conditions d'Utilisation",
+      "imprint": "Mentions Légales"
+    }
+  },
+  "theme": {
+    "light": "Mode Clair",
+    "dark": "Mode Sombre"
+  }
+} 

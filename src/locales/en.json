@@ -1,0 +1,228 @@
+{
+  "header": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "contact": "Contact",
+    "language": "Language"
+  },
+  "hero": {
+    "title": "Strengthening Brand Identity and Growth",
+    "subtitle": "We help brands evolve through innovative digital solutions",
+    "cta": "Learn More",
+    "services": {
+      "artDirection": "Art Direction",
+      "graphicDesign": "Graphic Design",
+      "videography": "Videography",
+      "aiSolutions": "AI Solutions"
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "pageTitle": "Services",
+    "pageDescription": "We offer a comprehensive range of digital services to help your business thrive in the modern landscape. Each service is tailored to elevate your brand and create meaningful connections with your audience.",
+    "subtitle": "Exceptional solutions for your digital presence",
+    "learnMore": "Learn more",
+    "contactCta": "Contact us now",
+    "artDirection": {
+      "title": "Art Direction",
+      "description": "Creating visual concepts to communicate ideas that inspire, inform, and captivate consumers.",
+      "fullDescription": "Our art direction services focus on crafting cohesive visual narratives that elevate your brand's identity. We merge strategic thinking with creative execution to develop visual concepts that resonate with your target audience and strengthen your brand positioning in the market.",
+      "feature1": "Conceptual development and storytelling",
+      "feature2": "Visual identity systems and guidelines",
+      "feature3": "Cross-platform visual strategy",
+      "feature4": "Creative team leadership and coordination"
+    },
+    "graphicDesign": {
+      "title": "Graphic Design",
+      "description": "Crafting visually stunning designs that communicate your message effectively.",
+      "fullDescription": "Our graphic design services transform ideas into compelling visual assets that capture attention and communicate your message with clarity and impact. Whether for print or digital media, we create designs that enhance your brand's visual presence and engage your audience.",
+      "feature1": "Brand identity and logo design",
+      "feature2": "Print materials and marketing collateral",
+      "feature3": "Digital assets and social media graphics",
+      "feature4": "Packaging design and product visualization"
+    },
+    "videography": {
+      "title": "Videography",
+      "description": "Producing engaging video content that tells your story and connects with viewers.",
+      "fullDescription": "Our videography services deliver captivating visual stories that engage your audience across all platforms. From concept to final edit, we create high-quality video content that conveys your message, showcases your products or services, and builds emotional connections with viewers.",
+      "feature1": "Corporate and brand videos",
+      "feature2": "Product showcases and demonstrations",
+      "feature3": "Social media and web content",
+      "feature4": "Event coverage and documentary-style storytelling"
+    },
+    "aiSolutions": {
+      "title": "AI Solutions",
+      "description": "Leveraging artificial intelligence to enhance your business capabilities and efficiency.",
+      "fullDescription": "Our AI solutions integrate cutting-edge technology with practical business applications to drive efficiency, innovation, and growth. We develop custom AI-powered tools and systems that enhance decision-making, automate processes, and create personalized experiences for your customers.",
+      "feature1": "Predictive analytics and business intelligence",
+      "feature2": "Natural language processing applications",
+      "feature3": "Computer vision and image recognition",
+      "feature4": "AI-powered marketing and customer engagement tools"
+    },
+    "branding": {
+      "title": "Branding",
+      "description": "Developing a strong and memorable brand identity to differentiate your business.",
+      "fullDescription": "Our branding services help create a distinctive and compelling brand identity that resonates with your target audience. We develop comprehensive brand strategies that establish an emotional connection with your customers and set your business apart in the market.",
+      "feature1": "Brand positioning strategy",
+      "feature2": "Visual identity development",
+      "feature3": "Brand guidelines and messaging",
+      "feature4": "Brand voice and tone strategy"
+    },
+    "digitalMarketing": {
+      "title": "Digital Marketing",
+      "description": "Effective marketing strategies to expand your reach and generate results.",
+      "fullDescription": "Our digital marketing solutions are designed to increase your brand's online visibility, attract qualified visitors, and convert leads into customers. We use a data-driven approach to create tailored campaigns that meet your business objectives.",
+      "feature1": "SEO and content marketing",
+      "feature2": "Social media management",
+      "feature3": "Email marketing and automation",
+      "feature4": "Paid advertising and retargeting"
+    }
+  },
+  "testimonial": {
+    "title": "What Our Clients Say",
+    "subtitle": "Success stories from businesses we've helped transform",
+    "client1": {
+      "text": "House of Digital Business completely transformed our brand identity. Their creative approach and attention to detail resulted in a cohesive visual language that resonates with our audience.",
+      "name": "Sarah Johnson",
+      "position": "Marketing Director, TechVision"
+    },
+    "client2": {
+      "text": "The video content created by their team helped us increase engagement by 200%. Their strategic approach to storytelling made all the difference in how our products are perceived.",
+      "name": "Michael Chen",
+      "position": "CEO, Innovate Solutions"
+    },
+    "client3": {
+      "text": "Their AI integration solutions optimized our customer service operations and reduced response times by 70%. A real game-changer for our business efficiency.",
+      "name": "Emma Rodriguez",
+      "position": "Operations Manager, GlobalConnect"
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "pageTitle": "About Us",
+    "pageDescription": "Learn about our company, our mission, and the values that drive us to create exceptional digital experiences for our clients.",
+    "ourStory": {
+      "title": "Our Story",
+      "paragraph1": "House of Digital Business was founded in 2018 with a vision to bridge the gap between creative design and technological innovation. What began as a small team of passionate designers and developers has evolved into a full-service digital agency with a global client base.",
+      "paragraph2": "Over the years, we've helped businesses of all sizes transform their digital presence and connect more meaningfully with their audiences. Our journey has been defined by constant learning, adaptation, and a relentless pursuit of excellence in everything we create."
+    },
+    "stats": {
+      "clients": "Satisfied Clients",
+      "projects": "Completed Projects",
+      "awards": "Industry Awards"
+    },
+    "team": {
+      "title": "Our Team",
+      "description": "We are a team of passionate professionals dedicated to helping our clients succeed in the digital landscape.",
+      "creative": "Creative Director",
+      "creativeBio": "Leads our creative vision with over 10 years of experience in design and branding.",
+      "technical": "Technical Director",
+      "technicalBio": "Oversees development and technical implementation with expertise in modern web technologies.",
+      "strategy": "Strategy Director",
+      "strategyBio": "Develops strategic plans and ensures our work delivers measurable business results."
+    },
+    "story": {
+      "title": "Our Story",
+      "paragraph1": "House of Digital Business was founded in 2018 with a vision to bridge the gap between creative design and technological innovation. What began as a small team of passionate designers and developers has evolved into a full-service digital agency with a global client base.",
+      "paragraph2": "Over the years, we've helped businesses of all sizes transform their digital presence and connect more meaningfully with their audiences. Our journey has been defined by constant learning, adaptation, and a relentless pursuit of excellence in everything we create.",
+      "highlight": "Today, we continue to push boundaries and explore new possibilities at the intersection of design, technology, and business strategy."
+    },
+    "mission": {
+      "title": "Our Mission & Vision",
+      "paragraph1": "Our mission is to empower businesses to thrive in the digital landscape by creating authentic, intelligent, and impactful brand experiences. We believe that thoughtful design and strategic implementation can transform how businesses connect with their audiences and achieve their goals.",
+      "paragraph2": "We approach each project as a unique opportunity to create something meaningful that drives real results. By combining creativity with strategic thinking, we develop solutions that not only look exceptional but also perform excellently.",
+      "vision": "Our vision is to become a leading force in shaping the future of digital brand experiences, known for our innovative approach and measurable impact on our clients' success."
+    },
+    "values": {
+      "title": "Our Values",
+      "innovation": {
+        "title": "Innovation",
+        "description": "We continuously explore new ideas, technologies, and approaches to create forward-thinking solutions that give our clients a competitive edge."
+      },
+      "excellence": {
+        "title": "Excellence",
+        "description": "We hold ourselves to the highest standards in everything we do, from the quality of our designs to the effectiveness of our strategies and the reliability of our service."
+      },
+      "creativity": {
+        "title": "Creativity",
+        "description": "We believe in the power of creative thinking to solve complex problems and create memorable experiences that resonate with audiences."
+      },
+      "integrity": {
+        "title": "Integrity",
+        "description": "We build relationships based on trust, transparency, and honest communication, always acting in the best interest of our clients and their audiences."
+      }
+    },
+    "team": {
+      "title": "Our Team",
+      "description": "We are a diverse team of creative thinkers, technical experts, and strategic minds working together to deliver exceptional results.",
+      "creative": "Creative Director",
+      "creativeBio": "Brings vision and artistic excellence to all our projects with deep expertise in visual storytelling.",
+      "technical": "Technical Director",
+      "technicalBio": "Ensures flawless implementation with cutting-edge technology and robust solutions.",
+      "strategy": "Strategy Director",
+      "strategyBio": "Maps the path to success by aligning our work with your business objectives and market realities.",
+      "member1": {
+        "name": "Alexander Weber",
+        "role": "Creative Director",
+        "bio": "With over 15 years of experience in design and brand strategy, Alexander leads our creative team with vision and expertise."
+      },
+      "member2": {
+        "name": "Julia Schmidt",
+        "role": "Technical Director",
+        "bio": "Julia combines technical knowledge with creative problem-solving to oversee the development and implementation of our digital solutions."
+      },
+      "member3": {
+        "name": "Markus Müller",
+        "role": "Strategy Director",
+        "bio": "Markus brings strategic insight and business acumen to ensure our creative work achieves measurable results for our clients."
+      }
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "pageTitle": "Contact Us",
+    "pageDescription": "Have a project in mind or want to learn more about our services? Get in touch with us—we'd love to hear from you and discuss how we can help bring your vision to life.",
+    "form": {
+      "title": "Send us a message",
+      "name": "Name",
+      "namePlaceholder": "Enter your name",
+      "email": "Email",
+      "emailPlaceholder": "Enter your email address",
+      "message": "Message",
+      "messagePlaceholder": "Tell us about your project or inquiry",
+      "submit": "Send Message",
+      "sending": "Sending...",
+      "success": "Thank you! Your message has been sent successfully. We'll get back to you soon.",
+      "error": "Something went wrong. Please try again or contact us directly via email.",
+      "errors": {
+        "name": "Name is required",
+        "email": "Email is required",
+        "emailInvalid": "Please enter a valid email address",
+        "message": "Message is required",
+        "messageLength": "Message should be at least 10 characters long"
+      }
+    },
+    "info": {
+      "title": "Contact Information",
+      "email": "Email",
+      "phone": "Phone",
+      "address": "Address",
+      "addressDetail": "Friedrichstraße 76-78, 10117 Berlin, Germany"
+    }
+  },
+  "footer": {
+    "copyright": "© 2025 House of Digital Business. All rights reserved.",
+    "navigation": "Navigation",
+    "social": "Social",
+    "legal": {
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "imprint": "Imprint"
+    }
+  },
+  "theme": {
+    "light": "Light Mode",
+    "dark": "Dark Mode"
+  }
+}

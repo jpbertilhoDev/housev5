@@ -1,0 +1,228 @@
+{
+  "meta": {
+    "title": "House of Digital Business",
+    "description": "Fortalecendo a identidade da marca e o crescimento"
+  },
+  "header": {
+    "home": "Início",
+    "services": "Serviços",
+    "about": "Sobre",
+    "contact": "Contato",
+    "language": "Idioma"
+  },
+  "hero": {
+    "title": "Fortalecendo a identidade da marca e o crescimento",
+    "subtitle": "Soluções digitais que transformam o seu negócio",
+    "cta": "Contate-nos",
+    "services": {
+      "artDirection": "Direção de Arte",
+      "graphicDesign": "Design Gráfico",
+      "videography": "Videografia",
+      "aiSolutions": "Soluções de IA"
+    }
+  },
+  "services": {
+    "title": "Nossos Serviços",
+    "pageTitle": "Serviços",
+    "pageDescription": "Oferecemos uma ampla gama de serviços digitais para ajudar seu negócio a prosperar no cenário moderno. Cada serviço é personalizado para elevar sua marca e criar conexões significativas com seu público.",
+    "subtitle": "Soluções digitais profissionais para o seu negócio",
+    "learnMore": "Saiba mais",
+    "contactCta": "Entre em contato agora",
+    "artDirection": {
+      "title": "Direção de Arte",
+      "description": "Desenvolvimento estratégico de identidade visual para a sua marca",
+      "fullDescription": "Nossos serviços de direção de arte focam na criação de narrativas visuais coesas que elevam a identidade da sua marca. Combinamos pensamento estratégico com execução criativa para desenvolver conceitos visuais que repercutem com seu público-alvo e fortalecem o posicionamento da sua marca no mercado.",
+      "feature1": "Desenvolvimento conceitual e storytelling",
+      "feature2": "Sistemas de identidade visual e diretrizes",
+      "feature3": "Estratégia visual multiplataforma",
+      "feature4": "Liderança e coordenação de equipe criativa"
+    },
+    "graphicDesign": {
+      "title": "Design Gráfico",
+      "description": "Soluções visuais profissionais para todas as necessidades da sua marca",
+      "fullDescription": "Nossos serviços de design gráfico transformam ideias em ativos visuais atraentes que capturam a atenção e comunicam sua mensagem com clareza e impacto. Seja para mídia impressa ou digital, criamos designs que melhoram a presença visual da sua marca e engajam seu público.",
+      "feature1": "Identidade de marca e design de logo",
+      "feature2": "Materiais impressos e materiais de marketing",
+      "feature3": "Ativos digitais e gráficos para mídias sociais",
+      "feature4": "Design de embalagem e visualização de produto"
+    },
+    "videography": {
+      "title": "Videografia",
+      "description": "Conteúdo em vídeo de alta qualidade para mostrar seus produtos e serviços",
+      "fullDescription": "Nossos serviços de videografia entregam histórias visuais cativantes que engajam seu público em todas as plataformas. Do conceito à edição final, criamos conteúdo de vídeo de alta qualidade que transmite sua mensagem, destaca seus produtos ou serviços e constrói conexões emocionais com os espectadores.",
+      "feature1": "Vídeos corporativos e de marca",
+      "feature2": "Demonstrações e exibição de produtos",
+      "feature3": "Conteúdo para mídias sociais e web",
+      "feature4": "Cobertura de eventos e storytelling documentário"
+    },
+    "aiSolutions": {
+      "title": "Soluções de IA",
+      "description": "Ferramentas de inteligência artificial de ponta para otimizar seu negócio",
+      "fullDescription": "Nossas soluções de IA integram tecnologia de ponta com aplicações práticas de negócios para impulsionar eficiência, inovação e crescimento. Desenvolvemos ferramentas e sistemas personalizados alimentados por IA que aprimoram a tomada de decisão, automatizam processos e criam experiências personalizadas para seus clientes.",
+      "feature1": "Análises preditivas e inteligência de negócios",
+      "feature2": "Aplicações de processamento de linguagem natural",
+      "feature3": "Visão computacional e reconhecimento de imagem",
+      "feature4": "Ferramentas de marketing e engajamento de clientes com IA"
+    },
+    "branding": {
+      "title": "Branding",
+      "description": "Desenvolvendo uma identidade de marca forte e memorável para diferenciar seu negócio",
+      "fullDescription": "Nossos serviços de branding ajudam a criar uma identidade de marca única e atraente que ressoa com seu público-alvo. Desenvolvemos estratégias de marca completas que estabelecem uma conexão emocional com seus clientes e destacam seu negócio no mercado.",
+      "feature1": "Estratégia de posicionamento de marca",
+      "feature2": "Desenvolvimento de identidade visual",
+      "feature3": "Diretrizes da marca e mensagens",
+      "feature4": "Estratégia de voz e tom da marca"
+    },
+    "digitalMarketing": {
+      "title": "Marketing Digital",
+      "description": "Estratégias de marketing eficazes para ampliar seu alcance e gerar resultados",
+      "fullDescription": "Nossas soluções de marketing digital são projetadas para aumentar a visibilidade da sua marca online, atrair visitantes qualificados e converter leads em clientes. Utilizamos uma abordagem baseada em dados para criar campanhas personalizadas que atendem aos seus objetivos de negócio.",
+      "feature1": "SEO e marketing de conteúdo",
+      "feature2": "Gestão de mídias sociais",
+      "feature3": "Marketing por email e automação",
+      "feature4": "Publicidade paga e retargeting"
+    }
+  },
+  "testimonial": {
+    "title": "O que Nossos Clientes Dizem",
+    "subtitle": "Histórias de sucesso de empresas que ajudamos a transformar",
+    "client1": {
+      "text": "A House of Digital Business transformou completamente a identidade da nossa marca. Sua abordagem criativa e atenção aos detalhes resultaram em uma linguagem visual coesa que ressoa com nosso público.",
+      "name": "Sarah Johnson",
+      "position": "Diretora de Marketing, TechVision"
+    },
+    "client2": {
+      "text": "O conteúdo de vídeo criado pela equipe deles nos ajudou a aumentar o engajamento em 200%. A abordagem estratégica para contar histórias fez toda a diferença na forma como nossos produtos são percebidos.",
+      "name": "Michael Chen",
+      "position": "CEO, Innovate Solutions"
+    },
+    "client3": {
+      "text": "Suas soluções de integração de IA otimizaram nossas operações de atendimento ao cliente e reduziram os tempos de resposta em 70%. Uma verdadeira revolução para a eficiência do nosso negócio.",
+      "name": "Emma Rodriguez",
+      "position": "Gerente de Operações, GlobalConnect"
+    }
+  },
+  "about": {
+    "title": "Sobre Nós",
+    "pageTitle": "Sobre Nós",
+    "pageDescription": "Conheça nossa empresa, nossa missão e os valores que nos impulsionam a criar experiências digitais excepcionais para nossos clientes.",
+    "subtitle": "Nossa missão é ajudar marcas a crescerem através da excelência digital",
+    "description": "A House of Digital Business é especializada em criar soluções digitais impactantes que fortalecem a identidade da marca e impulsionam o crescimento dos negócios. Nossa equipe de especialistas combina criatividade e conhecimento técnico para entregar resultados excepcionais.",
+    "ourStory": {
+      "title": "Nossa História",
+      "paragraph1": "A House of Digital Business foi fundada em 2018 com a visão de unir design criativo e inovação tecnológica. O que começou como uma pequena equipe de designers e desenvolvedores apaixonados evoluiu para uma agência digital completa com clientes globais.",
+      "paragraph2": "Ao longo dos anos, ajudamos empresas de todos os tamanhos a transformar sua presença digital e se conectar de forma mais significativa com seus públicos. Nossa jornada tem sido definida por aprendizado constante, adaptação e busca incansável pela excelência em tudo o que criamos."
+    },
+    "stats": {
+      "clients": "Clientes Satisfeitos",
+      "projects": "Projetos Concluídos",
+      "awards": "Prêmios do Setor"
+    },
+    "team": {
+      "title": "Nossa Equipe",
+      "description": "Somos uma equipe diversificada de pensadores criativos, especialistas técnicos e mentes estratégicas trabalhando juntos para entregar resultados excepcionais.",
+      "creative": "Diretor Criativo",
+      "creativeBio": "Traz visão e excelência artística para todos os nossos projetos com profunda expertise em narrativa visual.",
+      "technical": "Diretor Técnico",
+      "technicalBio": "Garante implementação impecável com tecnologia de ponta e soluções robustas.",
+      "strategy": "Diretor de Estratégia",
+      "strategyBio": "Mapeia o caminho para o sucesso alinhando nosso trabalho com seus objetivos de negócio e realidades do mercado.",
+      "member1": {
+        "name": "Alexander Weber",
+        "role": "Diretor Criativo",
+        "bio": "Com mais de 15 anos de experiência em design e estratégia de marca, Alexander lidera nossa equipe criativa com visão e expertise."
+      },
+      "member2": {
+        "name": "Julia Schmidt",
+        "role": "Diretora Técnica",
+        "bio": "Julia combina conhecimento técnico com resolução criativa de problemas para supervisionar o desenvolvimento e implementação de nossas soluções digitais."
+      },
+      "member3": {
+        "name": "Markus Müller",
+        "role": "Diretor de Estratégia",
+        "bio": "Markus traz percepção estratégica e perspicácia empresarial para garantir que nosso trabalho criativo alcance resultados mensuráveis para nossos clientes."
+      }
+    },
+    "story": {
+      "title": "Nossa História",
+      "paragraph1": "A House of Digital Business foi fundada em 2018 com a visão de unir design criativo e inovação tecnológica. O que começou como uma pequena equipe de designers e desenvolvedores apaixonados evoluiu para uma agência digital completa com clientes globais.",
+      "paragraph2": "Ao longo dos anos, ajudamos empresas de todos os tamanhos a transformar sua presença digital e se conectar de forma mais significativa com seus públicos. Nossa jornada tem sido definida por aprendizado constante, adaptação e busca incansável pela excelência em tudo o que criamos.",
+      "highlight": "Hoje, continuamos a ultrapassar limites e explorar novas possibilidades na interseção entre design, tecnologia e estratégia de negócios."
+    },
+    "mission": {
+      "title": "Nossa Missão e Visão",
+      "paragraph1": "Nossa missão é capacitar empresas a prosperarem no cenário digital, criando experiências de marca autênticas, inteligentes e impactantes. Acreditamos que design cuidadoso e implementação estratégica podem transformar a maneira como as empresas se conectam com seus públicos e atingem seus objetivos.",
+      "paragraph2": "Abordamos cada projeto como uma oportunidade única de criar algo significativo que gere resultados reais. Combinando criatividade com pensamento estratégico, desenvolvemos soluções que não apenas parecem excepcionais, mas também performam com excelência.",
+      "vision": "Nossa visão é nos tornarmos uma força líder na formação do futuro das experiências digitais de marca, conhecidos por nossa abordagem inovadora e impacto mensurável no sucesso de nossos clientes."
+    },
+    "values": {
+      "title": "Nossos Valores",
+      "innovation": {
+        "title": "Inovação",
+        "description": "Exploramos continuamente novas ideias, tecnologias e abordagens para criar soluções inovadoras que dão aos nossos clientes uma vantagem competitiva."
+      },
+      "excellence": {
+        "title": "Excelência",
+        "description": "Mantemos os mais altos padrões em tudo o que fazemos, desde a qualidade de nossos designs até a eficácia de nossas estratégias e a confiabilidade de nosso serviço."
+      },
+      "creativity": {
+        "title": "Criatividade",
+        "description": "Acreditamos no poder do pensamento criativo para resolver problemas complexos e criar experiências memoráveis que ressoam com o público."
+      },
+      "integrity": {
+        "title": "Integridade",
+        "description": "Construímos relacionamentos baseados em confiança, transparência e comunicação honesta, sempre agindo no melhor interesse de nossos clientes e seus públicos."
+      }
+    }
+  },
+  "contact": {
+    "title": "Contato",
+    "pageTitle": "Entre em Contato",
+    "pageDescription": "Tem um projeto em mente ou quer saber mais sobre nossos serviços? Entre em contato conosco—adoraríamos ouvir você e discutir como podemos ajudar a concretizar sua visão.",
+    "subtitle": "Vamos começar a trabalhar juntos",
+    "name": "Nome",
+    "email": "Email",
+    "message": "Mensagem",
+    "send": "Enviar Mensagem",
+    "success": "Mensagem enviada com sucesso!",
+    "error": "Ocorreu um erro. Por favor, tente novamente.",
+    "form": {
+      "title": "Envie-nos uma mensagem",
+      "name": "Nome",
+      "namePlaceholder": "Digite seu nome",
+      "email": "Email",
+      "emailPlaceholder": "Digite seu endereço de email",
+      "subject": "Assunto",
+      "subjectPlaceholder": "Sobre o que você quer conversar?",
+      "message": "Mensagem",
+      "messagePlaceholder": "Conte-nos sobre seu projeto ou dúvida",
+      "submit": "Enviar Mensagem",
+      "sending": "Enviando...",
+      "successMessage": "Obrigado! Sua mensagem foi enviada com sucesso. Entraremos em contato em breve.",
+      "errorMessage": "Algo deu errado. Por favor, tente novamente ou entre em contato conosco diretamente por email."
+    },
+    "info": {
+      "title": "Informações de Contato",
+      "email": "Email",
+      "phone": "Telefone",
+      "address": "Endereço",
+      "addressDetail": "Friedrichstraße 76-78, 10117 Berlim, Alemanha"
+    }
+  },
+  "footer": {
+    "copyright": "© 2023 House of Digital Business. Todos os direitos reservados.",
+    "navigation": "Navegação",
+    "social": "Social",
+    "privacy": "Política de Privacidade",
+    "terms": "Termos de Uso",
+    "legal": {
+      "privacy": "Política de Privacidade",
+      "terms": "Termos de Serviço",
+      "imprint": "Impressão"
+    }
+  },
+  "theme": {
+    "light": "Modo Claro",
+    "dark": "Modo Escuro"
+  }
+} 
