@@ -1,28 +1,28 @@
-const path = require("path");
+const path = require('path');
 
 module.exports = function override(config, env) {
   // Permitir transpilação de node_modules para @react-three/fiber e @react-three/drei
   config.module.rules.push({
     test: /\.(js|mjs|jsx|ts|tsx)$/,
     include: [
-      path.resolve(__dirname, "node_modules/@react-three/fiber"),
-      path.resolve(__dirname, "node_modules/@react-three/drei"),
-      path.resolve(__dirname, "node_modules/three"),
+      path.resolve(__dirname, 'node_modules/@react-three/fiber'),
+      path.resolve(__dirname, 'node_modules/@react-three/drei'),
+      path.resolve(__dirname, 'node_modules/three'),
     ],
     use: {
-      loader: "babel-loader",
+      loader: 'babel-loader',
       options: {
         presets: [
-          "@babel/preset-env",
-          "@babel/preset-react",
-          "@babel/preset-typescript",
+          '@babel/preset-env',
+          '@babel/preset-react',
+          '@babel/preset-typescript'
         ],
         plugins: [
-          "@babel/plugin-proposal-class-properties",
-          "@babel/plugin-transform-runtime",
-        ],
-      },
-    },
+          '@babel/plugin-proposal-class-properties',
+          '@babel/plugin-transform-runtime'
+        ]
+      }
+    }
   });
 
   // Adicionar resolvedores para arquivos problemáticos
@@ -38,9 +38,9 @@ module.exports = function override(config, env) {
     },
     alias: {
       ...config.resolve.alias,
-      "three-stdlib": path.resolve(__dirname, "node_modules/three-stdlib"),
-      fflate: path.resolve(__dirname, "node_modules/fflate"),
-      "@": path.resolve(__dirname, "src"),
+      'three-stdlib': path.resolve(__dirname, 'node_modules/three-stdlib'),
+      'fflate': path.resolve(__dirname, 'node_modules/fflate'),
+      '@': path.resolve(__dirname, 'src'),
     },
   };
 
@@ -51,21 +51,15 @@ module.exports = function override(config, env) {
   };
 
   // Configurar source-map-loader para ignorar módulos problemáticos
-  config.module.rules.forEach((rule) => {
-    if (
-      rule.use &&
-      Array.isArray(rule.use) &&
-      rule.use.some(
-        (use) => use.loader && use.loader.includes("source-map-loader")
-      )
-    ) {
+  config.module.rules.forEach(rule => {
+    if (rule.use && rule.use.some(use => use.loader && use.loader.includes('source-map-loader'))) {
       rule.exclude = [
         /node_modules\/three-stdlib/,
         /node_modules\/fflate/,
-        /\bnode_modules\b/,
+        /\bnode_modules\b/
       ];
     }
   });
 
   return config;
-};
+}; 
